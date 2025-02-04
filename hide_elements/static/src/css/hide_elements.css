@@ -1,0 +1,24 @@
+/* 隐藏 user-heading 区域 */
+.user-heading {
+    display: none !important;
+}
+
+/* 隐藏 tab-content 区域内容 */
+.tab-pane.active.text-muted.o_web_settings_compact_subtitle a:first-of-type {
+    display: none !important;
+}
+
+/* 隐藏版权信息和版本号 */
+.o_settings_footer {
+    display: none !important;
+}
+
+/* 隐藏Odoo S.A.相关信息 */
+.o_brand_promotion {
+    display: none !important;
+}
+
+/* 隐藏系统通知区域 */
+.o_system_notification {
+    display: none !important;
+} 
