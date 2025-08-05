@@ -26,10 +26,11 @@
         'static/description/banner.png',
         'static/description/icon.png',
     ],
-    'price': 10.0,
-    'currency': 'USD',
+    'price': 0.0,
+    # 'currency': 'USD',
     'installable': True,
     'application': False,
     'auto_install': False,
     'support': 'jcerp@aliyun.com',
+
 } 
