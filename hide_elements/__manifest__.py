@@ -1,6 +1,6 @@
 {
     'name': 'Hide Odoo Elements',
-    'version': '1.0',
+    'version': '1.1',
     'summary': 'Hide copyright and other elements in settings page',
     'description': """
         Hide Elements Module for Odoo Settings Page:
@@ -34,3 +34,4 @@
     'support': 'jcerp@aliyun.com',
 
 } 
+
